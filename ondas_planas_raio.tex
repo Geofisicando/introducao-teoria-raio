@@ -22,7 +22,7 @@
 
 \begin{document}
 
-\section{A teoria do raio em um modelo de ondas planas}
+\section{A teoria do raio em um modelo de ondas planas: Vagarosidade horizontal}
 
 \begin{figure}[H]
 \caption{Exemplo esquemático de uma onda plana atingindo a superfície de aquisição formando um ângulo $\theta$
@@ -87,6 +87,42 @@ A velocidade da onda plana no meio:
 \end{equation}
 
 A vagarosidade é definida como $u=1/v$, $p$ é a chamada vagarosidade horizontal.
+
+\section{Sistema centrado no raio: Vagarosidade vertical}
+
+\begin{equation}
+ \label{eq:1.9}
+ \eta = u \cos \theta = (u^2 - p^2)^{1/2}
+\end{equation}
+
+Pois:
+
+\begin{equation}
+ \label{eq:1.10}
+ u^2 = p^2 + \eta^2
+\end{equation}
+
+Notar que no \textit{turning point}, $p=u$ e $\eta=0$:
+
+
+\begin{equation}
+ \label{eq:1.11}
+ \frac{dx}{ds} = \sin \theta = \frac{p}{u}
+\end{equation}
+
+\begin{equation}
+ \label{eq:1.12}
+ \frac{dz}{ds} = \cos \theta = (1 - \sin^2\theta)^{1/2} = (1 - p^2/u^2)^{1/2} = u^{-1}(u^2 - p^2)^{1/2}
+\end{equation}
+
+Da regra da cadeia:
+
+\begin{equation}
+ \label{eq:1.13}
+ \frac{dx}{dz} = \frac{dx}{ds} \frac{ds}{dz} = \frac{p}{u} \frac{u}{(u^2-p^2)^{1/2}} = \frac{p}{(u^2-p^2)^{1/2}}
+\end{equation}
+
+
 
 
 \end{document}
