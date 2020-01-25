@@ -122,6 +122,72 @@ Da regra da cadeia:
  \frac{dx}{dz} = \frac{dx}{ds} \frac{ds}{dz} = \frac{p}{u} \frac{u}{(u^2-p^2)^{1/2}} = \frac{p}{(u^2-p^2)^{1/2}}
 \end{equation}
 
+Integrando $x$ em $z$, de $z_1$ a $z_2$:
+
+\begin{equation}
+ \label{eq:1.14}
+ x(z_1,z_2,p)=p\int^{z_1}_{z_2} \frac{dz}{(u^2(z)-p^2)^{1/2}}
+\end{equation}
+
+Como o raio é simétrico em relação ao \textit{turning point}, a distância total percorrida em $x$ será:
+
+\begin{equation}
+ \label{eq:1.15}
+ x(p)=2p\int^{z_p}_{0} \frac{dz}{(u^2(z)-p^2)^{1/2}}
+\end{equation}
+
+Expressando a integral acima na forma discreta:
+
+\begin{equation}
+ \label{eq:1.16}
+ x(p)=2p\sum_i \frac{\Delta z_i}{(u^2_i-p^2)^{1/2}}
+\end{equation}
+
+Válido sob a condição:
+
+\begin{equation}
+\label{eq:1.17}
+u_i > p
+\end{equation}
+
+Definindo $dt=u ds$:
+
+\begin{equation}
+ \label{eq:1.18}
+ \frac{dt}{ds}=u
+\end{equation}
+
+Da regra da cadeia:
+
+\begin{equation}
+ \label{eq:1.19}
+ \frac{dt}{dz} = \frac{dt}{ds} \frac{ds}{dz} = u \frac{u}{(u^2-p^2)^{1/2}} = \frac{u^2}{(u^2-p^2)^{1/2}}
+\end{equation}
+
+Integrando $t$ em $z$, de $z_1$ a $z_2$:
+
+\begin{equation}
+ \label{eq:1.20}
+ t(z_1,z_2,p)=\int^{z_1}_{z_2} \frac{u^2(z)}{(u^2(z)-p^2)^{1/2}} dz
+\end{equation}
+
+Como o raio é simétrico em relação ao \textit{turning point}, a distância total percorrida em $x$ será:
+
+\begin{equation}
+ \label{eq:1.20}
+ t(p)=2\int^{z_p}_{0} \frac{u(z)^2}{(u^2(z)-p^2)^{1/2}} dz
+\end{equation}
+
+Expressando a integral acima na forma discreta:
+
+\begin{equation}
+ \label{eq:1.16}
+ t(p)=2\sum_i \frac{u^2_i\Delta z_i}{(u^2_i-p^2)^{1/2}}
+\end{equation}
+
+Válido também sob a condição da Equação \ref{eq:1.17}. Esta condição existe para garantir que o produto $(u^2_i-p^2)^{1/2}$
+não se torne um número imaginário.
+
 
 
 
