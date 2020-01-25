@@ -174,21 +174,60 @@ Integrando $t$ em $z$, de $z_1$ a $z_2$:
 Como o raio é simétrico em relação ao \textit{turning point}, a distância total percorrida em $x$ será:
 
 \begin{equation}
- \label{eq:1.20}
+ \label{eq:1.21}
  t(p)=2\int^{z_p}_{0} \frac{u(z)^2}{(u^2(z)-p^2)^{1/2}} dz
 \end{equation}
 
 Expressando a integral acima na forma discreta:
 
 \begin{equation}
- \label{eq:1.16}
+ \label{eq:1.22}
  t(p)=2\sum_i \frac{u^2_i\Delta z_i}{(u^2_i-p^2)^{1/2}}
 \end{equation}
 
 Válido também sob a condição da Equação \ref{eq:1.17}. Esta condição existe para garantir que o produto $(u^2_i-p^2)^{1/2}$
 não se torne um número imaginário.
 
+\section{Introdução ao domínio $\tau$ x $p$}
 
+\begin{equation}
+ \label{eq:1.23}
+ \tau(p) = t(p)-px(p)
+\end{equation}
 
+\begin{equation}
+ \label{eq:1.24}
+ \tau(p) = 2\int^{z_p}_{0}\left[ \frac{u^2}{(u^2-p^2)^{1/2}} - \frac{p^2}{(u^2-p^2)^{1/2}} dz \right]
+\end{equation}
+
+\begin{equation}
+ \label{eq:1.25}
+ \tau(p) = 2\int^{z_p}_{0} (u^2-p^2)^{1/2} dz = 2\int^{z_p}_{0}\eta(z)dz
+\end{equation}
+
+Na forma discreta:
+
+\begin{equation}
+ \label{eq:1.26}
+ \tau(p) = 2\sum_{i}(u^2_i-p^2)^{1/2} \Delta z_i = 2\sum_i \eta_i \Delta z_i
+\end{equation}
+
+A Equação \ref{eq:1.26} também é válida sob a condição da Equação \ref{eq:1.17}. Tomando a derivada da 
+Equação \ref{eq:1.25} em relação ao parâmetro $p$:
+
+\begin{equation}
+ \label{eq:1.27}
+ \frac{d\tau}{dp} = \frac{d}{dp}2\int^{z_p}_{0} (u^2-p^2)^{1/2} dz = -2p\int^{z_p}_{0}\frac{dz}{(u^2-p^2)^{1/2}}
+\end{equation}
+
+\begin{equation}
+ \label{eq:1.28}
+ \frac{d\tau}{dp} = -x(p)
+\end{equation}
+
+\begin{equation}
+ \label{eq:1.29}
+ \frac{d^2\tau}{dp^2} = \frac{d}{dp}(-x) = -\frac{dx}{dp}
+\end{equation}
 
 \end{document}
