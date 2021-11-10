@@ -13,3 +13,10 @@
   - [#0 - Sobre o curso, o material de apoio e as referências](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/intro#aula-0---sobre-o-curso-o-material-de-apoio-e-as-refer%C3%AAncias)
 
 ### Soluções de ondas planas e a teoria do raio
+
+#1 - Solução de ondas planas para a equação da onda reduzida
+#2 - Ondas planas e raios em um meio de velocidade constante
+#3 - Vetor vagarosidade vertical eta e turning point
+#4 - Traçamento de raios no modelo gradiente linear com Madagascar
+#5 - Calcular a distância horizontal e o tempo de trânsito do raio
+#6 - Forma discreta das funções x(p) e t(p) e exercício
