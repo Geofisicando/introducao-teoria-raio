@@ -9,5 +9,7 @@
 ## Índice
 > Este material de apoio está em manutenção, alguns recursos ainda não estão disponíveis.
 
-### Framework de testes unitários em C
+### Introdução
   - [#0 - Sobre o curso, o material de apoio e as referências](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/intro#aula-0---sobre-o-curso-o-material-de-apoio-e-as-refer%C3%AAncias)
+
+### Soluções de ondas planas e a teoria do raio
