@@ -16,7 +16,7 @@
   - [#1 - Solução de ondas planas para a equação da onda reduzida](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/modeloOndasPlanas)
   - [#2 - Ondas planas e raios em um meio de velocidade constante](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/modeloOndasPlanas)
   - [#3 - Vetor vagarosidade vertical eta e turning point](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/modeloOndasPlanas)
-  - [#4 - Traçamento de raios no modelo gradiente linear com Madagascar](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/lab)
+  - [#4 - Traçamento de raios no modelo gradiente linear com Madagascar](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/lab/tracamento_raio#aula-4---tra%C3%A7amento-de-raios-no-modelo-gradiente-linear-com-madagascar)
   - [#5 - Calcular a distância horizontal e o tempo de trânsito do raio](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/modeloOndasPlanas)
   - [#6 - Forma discreta das funções x(p) e t(p) e exercício](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/modeloPilhaDeCamadasPlanas)
 
