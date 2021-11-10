@@ -4,6 +4,11 @@
 
 <img src="https://github.com/Geofisicando/introducao-teoria-raio/blob/master/teoria_raio.png" width="800">
 
+Seja bem vindo ao curso de introdução à teoria do raio do canal Geofisicando! Este é o material de apoio do curso. Este é um curso básico de introdução
+à teoria do raio para estudantes do ensino superior. O curso foca na demonstração teórica dos principais teoremas e equações
+da teoria do raio e possui uma etapa prática que será desenvolvida utilizando o pacote de processamento sísmico e de código aberto Madagascar,
+programação em Python e C.
+
 ## Dependências
 
 ## Índice
