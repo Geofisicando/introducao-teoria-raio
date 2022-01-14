@@ -1,0 +1,55 @@
+from rsf.proj import *
+from math import *
+
+Flow('velmod',None,
+	'''
+	spike n1=300 d1=0.01 o1=0. n2=1000 d2=0.01 o2=0.
+	label1=Depth label2=Distance unit1=Km unit2=Km |
+	math output="x1*0.5+1.5"
+	''')
+
+Plot('velmod',
+	'''
+	grey color=j scalebar=y barreverse=y bias=1.5
+	title="Velocity"
+	''')
+
+Flow('ray','velmod','rays2 zshot=0. yshot=2. nt=5000 dt=0.001 nr=1 a0=135')
+
+Plot('ray',
+	'''
+	graph plotcol=0 min1=0 max1=3 min2=0 max2=10
+	transp=y wanttitle=n wantaxis=n yreverse=y scalebar=y
+	symbol=+
+	''')
+
+v0=1.5
+p=sin(pi/4.)/1.5
+a=0.5
+ztp=(1-p*v0)/(p*a)
+
+Flow('ztp',None,'math n1=100 d1=0.1 o1=0. output="%g"' %(ztp))
+
+Plot('ztp',
+	'''
+	graph plotcol=0 min1=0 max1=10 min2=0 max2=3
+	wanttitle=n wantaxis=n yreverse=y scalebar=y
+	symbol=*
+	''')
+
+Result('rayplot','velmod ray ztp','Overlay')
+
+x=sqrt(1-p*p*v0*v0)-sqrt(1-(p*p*(v0+a*ztp)*(v0+a*ztp)))
+x=x*(1/(a*p))
+
+Flow('x',None,'math n1=1 d1=1 o1=0. output="%g"' %(x))
+
+Flow('escval','velmod','rays2 zshot=0. yshot=2. nt=5000 dt=0.001 nr=1 a0=135 escvar=y')
+
+vh=v0+a*ztp
+t=(vh/v0)*((1+sqrt(1-p*p*v0*v0))/(1+sqrt(1-p*p*vh*vh)))
+t=(2/a)*log(t)
+
+Flow('t',None,'math n1=1 d1=1 o1=0. output="%g"' %(t))
+
+End()
