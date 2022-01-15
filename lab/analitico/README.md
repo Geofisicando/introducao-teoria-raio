@@ -1,3 +1,3 @@
-# Aula 4 - Traçamento de raios no modelo gradiente linear com Madagascar
+# Aula 11 e 12 - Aplicação prática das fórmulas analíticas
 
 [:arrow_up: Voltar](https://github.com/Geofisicando/introducao-teoria-raio#%C3%ADndice)
