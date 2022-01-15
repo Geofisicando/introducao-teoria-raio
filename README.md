@@ -30,7 +30,7 @@ programação em Python e C.
   - [#10 - Fórmulas analíticas do modelo gradiente linear (Parte 3)](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/popov/cap1#aulas-8-10-f%C3%B3rmulas-anal%C3%ADticas-do-modelo-gradiente-linear)
   - [#11 - Aplicação prática das fórmulas analíticas (Parte 1)](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/lab/analitico#aulas-11-e-12---aplica%C3%A7%C3%A3o-pr%C3%A1tica-das-f%C3%B3rmulas-anal%C3%ADticas)
   - [#12 - Aplicação prática das fórmulas analíticas (Parte 2)](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/lab/analitico#aulas-11-e-12---aplica%C3%A7%C3%A3o-pr%C3%A1tica-das-f%C3%B3rmulas-anal%C3%ADticas)
-  - #13 - Equação iconal e equação de transporte (Parte 1)
-  - #14 - Equação iconal e equação de transporte (Parte 2)
-  - #15 - O problema da validade da série do raio
+  - [#13 - Equação iconal e equação de transporte (Parte 1)](https://github.com/Geofisicando/introducao-teoria-raio/blob/master/popov/cap1/README.md#aulas-13-15-demonstra%C3%A7%C3%A3o-das-equa%C3%A7%C3%B5es-iconal-e-de-transporte-e-o-problema-de-validade-da-s%C3%A9rie-do-raio)
+  - [#14 - Equação iconal e equação de transporte (Parte 2)](https://github.com/Geofisicando/introducao-teoria-raio/blob/master/popov/cap1/README.md#aulas-13-15-demonstra%C3%A7%C3%A3o-das-equa%C3%A7%C3%B5es-iconal-e-de-transporte-e-o-problema-de-validade-da-s%C3%A9rie-do-raio)
+  - [#15 - O problema da validade da série do raio](https://github.com/Geofisicando/introducao-teoria-raio/blob/master/popov/cap1/README.md#aulas-13-15-demonstra%C3%A7%C3%A3o-das-equa%C3%A7%C3%B5es-iconal-e-de-transporte-e-o-problema-de-validade-da-s%C3%A9rie-do-raio)
 
