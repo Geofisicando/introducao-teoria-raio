@@ -24,8 +24,13 @@ programação em Python e C.
   - [#4 - Traçamento de raios no modelo gradiente linear com Madagascar](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/lab/tracamento_raio#aula-4---tra%C3%A7amento-de-raios-no-modelo-gradiente-linear-com-madagascar)
   - [#5 - Calcular a distância horizontal e o tempo de trânsito do raio](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/modeloOndasPlanas)
   - [#6 - Forma discreta das funções x(p) e t(p) e exercício](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/modeloPilhaDeCamadasPlanas)
-
-
-
-
+  - #7 - Derivação das formas discretas das funções x(p) e t(p)
+  - #8 - Fórmulas analíticas do modelo gradiente linear (Parte 1)
+  - #9 - Fórmulas analíticas do modelo gradiente linear (Parte 2)
+  - #10 - Fórmulas analíticas do modelo gradiente linear (Parte 3)
+  - #11 - Aplicação prática das fórmulas analíticas (Parte 1)
+  - #12 - Aplicação prática das fórmulas analíticas (Parte 2)
+  - #13 - Equação iconal e equação de transporte (Parte 1)
+  - #14 - Equação iconal e equação de transporte (Parte 2)
+  - #15 - O problema da validade da série do raio
 
