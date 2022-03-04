@@ -34,3 +34,12 @@ programação em Python e C.
   - [#14 - Equação iconal e equação de transporte (Parte 2)](https://github.com/Geofisicando/introducao-teoria-raio/blob/master/popov/cap1/README.md#aulas-13-15-demonstra%C3%A7%C3%A3o-das-equa%C3%A7%C3%B5es-iconal-e-de-transporte-e-o-problema-de-validade-da-s%C3%A9rie-do-raio)
   - [#15 - O problema da validade da série do raio](https://github.com/Geofisicando/introducao-teoria-raio/blob/master/popov/cap1/README.md#aulas-13-15-demonstra%C3%A7%C3%A3o-das-equa%C3%A7%C3%B5es-iconal-e-de-transporte-e-o-problema-de-validade-da-s%C3%A9rie-do-raio)
 
+### Solução da equação iconal e cálculo variacional
+
+  - [#16 - Oque é um raio na teoria do raio da Geofísica?](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/popov/cap2#aulas-16-22-introdu%C3%A7%C3%A3o-ao-c%C3%A1lculo-variacional)
+  - [#17 - Funcionais e extremos de função de uma variável](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/popov/cap2#aulas-16-22-introdu%C3%A7%C3%A3o-ao-c%C3%A1lculo-variacional)
+  - [#18 - Calcular extremo de um funcional](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/popov/cap2#aulas-16-22-introdu%C3%A7%C3%A3o-ao-c%C3%A1lculo-variacional)
+  - [#19 - Equação de Euler-Lagrange](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/popov/cap2#aulas-16-22-introdu%C3%A7%C3%A3o-ao-c%C3%A1lculo-variacional)
+  - [#20 - Formulação Lagrangiana](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/popov/cap2#aulas-16-22-introdu%C3%A7%C3%A3o-ao-c%C3%A1lculo-variacional)
+  - [#21 - Formulação Hamiltoniana (Parte 1)](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/popov/cap2#aulas-16-22-introdu%C3%A7%C3%A3o-ao-c%C3%A1lculo-variacional)
+  - [#22 - Formulação Hamiltoniana (Parte 2)](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/popov/cap2#aulas-16-22-introdu%C3%A7%C3%A3o-ao-c%C3%A1lculo-variacional)
