@@ -53,3 +53,5 @@ programação em Python e C.
   - [#30 - Extensão da forma hamiltoniana do funcional para 3D](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/popov/cap2#aulas-22-32-demonstra%C3%A7%C3%A3o-das-equa%C3%A7%C3%B5es-iconal-e-de-transporte-e-o-problema-de-validade-da-s%C3%A9rie-do-raio)
   - [#31 - Solução da equação iconal para uma fonte pontual em 3D](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/popov/cap2#aulas-22-32-demonstra%C3%A7%C3%A3o-das-equa%C3%A7%C3%B5es-iconal-e-de-transporte-e-o-problema-de-validade-da-s%C3%A9rie-do-raio)
   - [#32 - Definição das frentes de onda e o princípio de Huygens](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/popov/cap2#aulas-22-32-demonstra%C3%A7%C3%A3o-das-equa%C3%A7%C3%B5es-iconal-e-de-transporte-e-o-problema-de-validade-da-s%C3%A9rie-do-raio)
+
+### Sistema cinemático do raio e traçamento de raios com Runge-Kutta
