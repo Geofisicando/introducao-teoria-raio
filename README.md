@@ -54,4 +54,8 @@ programação em Python e C.
   - [#31 - Solução da equação iconal para uma fonte pontual em 3D](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/popov/cap2#aulas-22-32-demonstra%C3%A7%C3%A3o-das-equa%C3%A7%C3%B5es-iconal-e-de-transporte-e-o-problema-de-validade-da-s%C3%A9rie-do-raio)
   - [#32 - Definição das frentes de onda e o princípio de Huygens](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/popov/cap2#aulas-22-32-demonstra%C3%A7%C3%A3o-das-equa%C3%A7%C3%B5es-iconal-e-de-transporte-e-o-problema-de-validade-da-s%C3%A9rie-do-raio)
 
-### Sistema cinemático do raio e traçamento de raios com Runge-Kutta
+### O sistema cinemático do raio e traçamento de raios com Runge-Kutta
+
+- [#33 - O sistema cinemático do raio e o traçamento de raios](https://github.com/Geofisicando/introducao-teoria-raio/tree/master/popov/cap2#aulas-33--o-sistema-cinem%C3%A1tico-do-raio-e-o-tra%C3%A7amento-de-raios)
+
+
